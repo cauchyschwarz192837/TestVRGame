@@ -1,0 +1,13 @@
+# Blender 3.4.1 MTL File: 'LongCat.blend'
+# www.blender.org
+
+newmtl MaterialCat
+Ns 39.999996
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:/Dog folder/VR scenes/LongCat/CatMaterial.jpg
+map_Ks C:/Dog folder/VR scenes/LongCat/s_CatMaterial.jpg
+map_Bump -bm 1.500000 C:/Dog folder/VR scenes/LongCat/n_CatMaterial.jpg
