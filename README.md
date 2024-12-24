@@ -6,6 +6,8 @@ for spell casting functionality by capturing drawn hand motions and boss combat 
 
 ## Sample shots
 
+See the images folder for sample shots.
+
 ![Alt text](./images/L1Layout.png)
 
 ![Alt text](./images/L1P1.png)
