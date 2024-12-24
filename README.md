@@ -5,3 +5,5 @@ hand motions with VR controllers, and placing correct numbers of collectable ite
 for spell casting functionality by capturing drawn hand motions and boss combat mechanics.
 
 ## Sample shots
+
+![alt text]([http://url/to/img.png](https://drive.google.com/file/d/1ktUk-2lMbkhTneoYFiVaRy89MtYdV7QW/view?usp=drive_link))
